@@ -27,5 +27,12 @@ replay_pid*
 *.iml
 build/
 out/
+<<<<<<< HEAD
 .gradle/
 
+=======
+<<<<<<< HEAD
+=======
+
+>>>>>>> 142cde1 (Homework9: Allure reports)
+>>>>>>> 545d193 (git statusHomework9: Allure reports)
